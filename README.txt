@@ -16,7 +16,7 @@ And the next python libraries:
 
 ## Installation and execution
 
-1. Assure that ollama is working correctly and pull llama3. You can do this by these commands:
+1. Assure that ollama is working correctly and pull llama3. You can do this by running these commands:
     ollama serve
     ollama pull llama3
     ollama run llama3
